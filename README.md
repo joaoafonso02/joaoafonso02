@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<div style="display: flex; flex-direction: row;">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoafonso02&show_icons=true&theme=dark&icon_color=FFFFFF&title_color=1CD7B9&border_color=1CD7B9) <!-- tokyonight -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoafonso02&layout=compact&langs_count=8&theme=dark&&title_color=1CD7B9&border_color=1CD7B9)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoafonso02&label=Profile%20views&color=0e75b6&style=flat" alt="joaoafonso02" /> </p>
 
 
