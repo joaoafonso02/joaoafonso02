@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoafonso02&show_icons=true&theme=dark&icon_color=1CD7B9&title_color=FFFFF) <!-- tokyonight -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoafonso02&show_icons=true&theme=dark&icon_color=1CD7B9&title_color=FFFFFF) <!-- tokyonight -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoafonso02&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
