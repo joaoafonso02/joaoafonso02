@@ -5,9 +5,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoafonso02&show_icons=true&theme=dark&icon_color=FFFFFF&title_color=1CD7B9&border_color=1CD7B9&text_color=8D8D8D&layout=compact"/>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoafonso02&show_icons=true&theme=dark&icon_color=FFFFFF&title_color=1CD7B9&border_color=1CD7B9&text_color=8D8D8D) <!-- tokyonight -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoafonso02&layout=compact&hide=HTML&langs_count=6&theme=dark&text_color=8D8D8D&title_color=1CD7B9&border_color=1CD7B9)
 
 <div>
   <a href="https://github.com/joaoafonso02/Ano1-ECT">
