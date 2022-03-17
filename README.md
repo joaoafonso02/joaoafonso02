@@ -7,6 +7,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoafonso02&label=Profile%20views&color=0e75b6&style=flat" alt="joaoafonso02" /> </p>
 
+<div>
+  <a href="https://github.com/joaoafonso02/Ano1-ECT">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=joaoafonso02&repo=Ano1-ECT&theme=dark&icon_color=FFFFFF&title_color=1CD7B9&border_color=1CD7B9&text_color=8D8D8Dshow_owner=true"/>
+  </a>
+  <a href="https://github.com/joaoafonso02/Ano2-ECT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaoafonso02&repo=Ano2-ECT&theme=dark&icon_color=FFFFFF&title_color=1CD7B9&border_color=1CD7B9&text_color=8D8D8D&show_owner=true"/>
+  </a>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
