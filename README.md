@@ -10,7 +10,7 @@
 
 <div>
   <a href="https://github.com/joaoafonso02/Ano1-ECT">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=joaoafonso02&repo=Ano1-ECT&theme=dark&langs_count=3&icon_color=FFFFFF&title_color=34d2eb&border_color=34d2eb&text_color=ffffff&show_owner=true"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=joaoafonso02&repo=Ano1-ECT&theme=dark&icon_color=FFFFFF&title_color=34d2eb&border_color=34d2eb&text_color=ffffff&show_owner=true"/>
   </a>
   <a href="https://github.com/joaoafonso02/Ano2-ECT">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaoafonso02&repo=Ano2-ECT&theme=dark&icon_color=FFFFFF&title_color=34d2eb&border_color=34d2eb&text_color=ffffff&show_owner=true"/>
