@@ -16,7 +16,10 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaoafonso02&repo=Ano2-ECT&theme=dark&icon_color=FFFFFF&title_color=34d2eb&border_color=34d2eb&text_color=ffffff&show_owner=true"/>
   </a>
   <a href="https://github.com/joaoafonso02/MyDiscordBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaoafonso02&repo=MyDiscordBot&theme=dark&icon_color=FFFFFF&title_color=34d2eb&border_color=34d2eb&text_color=ffffff&show_owner=true"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=joaoafonso02&repo=MyDiscordBot&theme=dark&icon_color=FFFFFF&title_color=34d2eb&border_color=34d2eb&text_color=ffffff&show_owner=true"/>
+  </a>
+   <a href="https://github.com/joaoafonso02/Lil-projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaoafonso02&repo=Lil-projects&theme=dark&icon_color=FFFFFF&title_color=34d2eb&border_color=34d2eb&text_color=ffffff&show_owner=true"/>
   </a>
     
 </div>
