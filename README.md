@@ -8,21 +8,6 @@
 <p></p>
 
 
-<div>
-  <a href="https://github.com/joaoafonso02/Ano1-ECT">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=joaoafonso02&repo=Ano1-ECT&theme=dark&icon_color=FFFFFF&title_color=34d2eb&border_color=34d2eb&text_color=ffffff&show_owner=true"/>
-  </a>
-  <a href="https://github.com/joaoafonso02/Ano2-ECT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaoafonso02&repo=Ano2-ECT&theme=dark&icon_color=FFFFFF&title_color=34d2eb&border_color=34d2eb&text_color=ffffff&show_owner=true"/>
-  </a>
-  <a href="https://github.com/joaoafonso02/MyDiscordBot">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=joaoafonso02&repo=MyDiscordBot&theme=dark&icon_color=FFFFFF&title_color=34d2eb&border_color=34d2eb&text_color=ffffff&show_owner=true"/>
-  </a>
-   <a href="https://github.com/joaoafonso02/Lil-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaoafonso02&repo=Lil-projects&theme=dark&icon_color=FFFFFF&title_color=34d2eb&border_color=34d2eb&text_color=ffffff&show_owner=true"/>
-  </a>
-    
-</div>
 
 <p></p>
 <h3 align="left">Connect with me:</h3>
