@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div>
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=joaoafonso02&theme=gotham&show_icons=true&&title_color=1CD7B9&border_color=1CD7B9&text_color=8D8D8D&include_all_commits=true"  width="420"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=joaoafonso02&theme=gotham&show_icons=true&&title_color=1CD7B9&&icon_color=FFFFFF&border_color=1CD7B9&text_color=8D8D8D&include_all_commits=true"  width="420"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoafonso02&show_icons=true&bg_color=0D1116&theme=dark&langs_count=6&hide=VHDL,RICH TEXT FORMAT, TEX&icon_color=FFFFFF&title_color=1CD7B9&border_color=1CD7B9&text_color=8D8D8D&layout=compact"/>
 </div>
 
