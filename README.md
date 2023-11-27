@@ -25,5 +25,5 @@
   
 <h4> See what i'm listening on Spotify: </h4>
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ferreira.afonso.joao002&cover_image=true&theme=novatorem&bar_color=4fb14e&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ferreira.afonso.joao002&redirect=true&/api?spin=true)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ferreira.afonso.joao002&cover_image=true&theme=novatorem&bar_color=4fb14e&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ferreira.afonso.joao002&redirect=true)
   
