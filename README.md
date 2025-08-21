@@ -34,8 +34,10 @@
 
 <h4> See what I'm listening to on Spotify: </h4>
 
-<div>
-   <a href="https://spotify-github-profile.vercel.app/api/view?uid=ferreira.afonso.joao002&cover_image=true&theme=novatorem&bar_color=4fb14e&bar_color_cover=false">
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=ferreira.afonso.joao002&cover_image=true&theme=novatorem&bar_color=4fb14e&bar_color_cover=false" alt="spotify-github-profile" />
-   </a>
-</div>
+<!-- Spotify Now Playing -->
+<a href="https://open.spotify.com/user/ferreira.afonso.joao002">
+  <img
+    src="https://spotify-github-profile.vercel.app/api/spotify?uid=your_spotify_uid&cover_image=true&theme=novatorem&bar_color=1DB954&bar_color_cover=false"
+    alt="Spotify Now Playing" 
+  />
+</a>
