@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-<div>
-   <img src="https://github-readme-stats-joaoafonso02s-projects.vercel.app/api?username=joaoafonso02&theme=gotham&show_icons=true&title_color=1CD7B9&icon_color=FFFFFF&border_color=1CD7B9&text_color=8D8D8D&include_all_commits=true" width="420" height="auto"/>
-
-   <img src="https://github-readme-stats-joaoafonso02s-projects.vercel.app/api/top-langs/?username=joaoafonso02&hide=css,html&theme=gotham&bg_color=0D1116&langs_count=6&title_color=1CD7B9&border_color=1CD7B9&text_color=8D8D8D&layout=compact" width="322" height="auto"/>
-</div>
-
 <h3>Connect with me:</h3>
 <p>
    <a href="https://linkedin.com/in/joaoafonso02" target="_blank">
